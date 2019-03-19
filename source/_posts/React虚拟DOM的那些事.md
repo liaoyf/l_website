@@ -191,4 +191,4 @@ const applyPatch=(node, patch)=>{
 综上，简单来说 React 虚拟 dom 的事儿就是一个构建虚拟 dom，比较差异，记录差异，作用差异的过程  
 creactElement->render->update(diff->patch)
 
-下一篇我们来看一下 React16 的新特性 Fiber
+下一篇我们来看一下 React16 的 Fiber
